@@ -31,7 +31,7 @@ A FastAPI-based application that uses OpenAI to analyze and answer questions abo
 
 - `POST /upload` - Upload and analyze documents
 - `POST /summarize` - Summarize document content
-- `POST /question` - Ask questions about documents
+- `POST /ask` - Ask questions about documents
 
 ## Security Notes
 
