@@ -17,7 +17,7 @@ A FastAPI-based application that uses OpenAI to analyze and answer questions abo
 
 3. **Run the application:**
    ```bash
-   uvicorn main:app --reload
+   fastapi dev main.py
    ```
 
 ## Key Features
